@@ -4,6 +4,22 @@ TR: Veriler https://openweathermap.org/ adresinden alınmıştır. Uygulamanın 
 
 EN: Data is taken from https://openweathermap.org/. The screenshot of the application is displayed below. In the API KEY section, enter your own API KEY.
 
+TR: Ekran görüntüleri aşağıda verilmiştir.
+
+EN: Screenshots are given below.
+
+TR: İlk ekran görüntüsü.
+EN: First screenshot.
+![worldMap](https://user-images.githubusercontent.com/106634419/202478628-5e68dcb8-ee39-43e6-ab01-f56912f433b6.png)
+
+
+TR: İkinci ekran görüntüsü.
+EN: Second screenshot.
+
+
+![searchCountry](https://user-images.githubusercontent.com/106634419/202479349-d061a3ec-b2e3-4823-8f8b-de1dfdc5ac82.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
