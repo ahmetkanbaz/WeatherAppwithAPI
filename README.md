@@ -1,8 +1,8 @@
 `WeatherApp`
 
-EN: Data is taken from https://openweathermap.org/. The screenshot of the application is displayed below. In the API KEY section, enter your own API KEY.
-
 TR: Veriler https://openweathermap.org/ adresinden alınmıştır. Uygulamanın ekran görüntüsü aşağıda yer almaktadır. API KEY bölümünde kendi API KEY'inizi girin.
+
+EN: Data is taken from https://openweathermap.org/. The screenshot of the application is displayed below. In the API KEY section, enter your own API KEY.
 
 # Getting Started with Create React App
 
