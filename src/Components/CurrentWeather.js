@@ -9,7 +9,7 @@ function CurrentWeather() {
     const [current, setCurrent] = useState({})
 
     const API = {
-        API_KEY : '', //Your API KEY //Sizin adınıza oluşturmuş olduğunuz API KEY
+        API_KEY : '//Your API KEY //Sizin adınıza oluşturmuş olduğunuz API KEY',
         API_URL : 'https://api.openweathermap.org/data/2.5/'
     }
 
